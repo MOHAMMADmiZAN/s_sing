@@ -1,0 +1,99 @@
+/*=============================== extra small-start=======================================================*/
+@media (min-width: 320px) and (max-width: 575px){
+    .welcome h1{
+        font-size: 18px!important;
+    }
+    small{
+        font-size: 14px!important;
+    }
+    .cus-btn{
+        width: 100%;
+        font-size: 13px;
+        top: 0;
+        left: 0;
+    }
+    .hero{
+        margin: 0;
+    }
+    .cus-bg{
+        padding: 100px 20px;
+    }
+    .cus-sz{
+        width: 100%;
+    }
+    .form{
+        display: none;
+    }
+}
+/*=============================== extra small-end=======================================================*/
+/*===============================  small-start=======================================================*/
+@media (min-width: 576px) and (max-width: 767px){
+    .cus-btn{
+        width: 100%;
+        font-size: 13px;
+        top: 0;
+        left: 0;
+    }
+    .hero{
+        margin: 0;
+    }
+    .cus-bg{
+        padding: 100px 20px;
+    }
+    .cus-sz{
+        width: 100%;
+    }
+    .form{
+        width: 100%;
+        bottom: -140px;
+        left: 0;
+    }
+
+}
+/*===============================  small-end=======================================================*/
+/*===============================  mid-start=======================================================*/
+@media (min-width: 768px) and ( max-width: 991px){
+    .cus-btn{
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+    .hero{
+        margin: 0;
+    }
+    .cus-bg{
+        padding: 100px 20px;
+    }
+    .cus-sz{
+        width: 100%;
+    }
+    .form{
+        width: 100%;
+        bottom: -110px;
+        left: 0;
+    }
+}
+/*========================================= mid-end=====================================================*/
+/*========================================= large-start=====================================================*/
+@media (min-width: 992px) and (max-width: 1199px){
+    .cus-btn{
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+    .hero{
+        margin: 0;
+    }
+    .cus-bg{
+        padding: 100px 20px;
+    }
+    .cus-sz{
+        width: 100%;
+    }
+    .form{
+        width: 100%;
+        bottom: -110px;
+        left: 0;
+    }
+}
+/*========================================= large-end=====================================================*/
