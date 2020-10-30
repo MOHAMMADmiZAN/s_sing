@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc04c192-a181-484b-b113-b8ae6217abee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+    <list default="true" id="b52fa557-8ef7-49cc-86da-6a0db60a6e67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/s_sing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/webfonts/fa-brands-400d41dd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/webfonts/fa-light-300d41dd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/webfonts/fa-regular-400d41dd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/webfonts/fa-solid-900d41dd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo_work.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-brands-400d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-light-300d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-regular-400d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-solid-900d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/61.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/71.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/92.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,19 +33,13 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
-  <component name="ProjectId" id="1jYW3AuwVVI6ydmLwBrYOMxaRpe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="1jbNA686oydEeBi3uba1V2GCSl6" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -41,37 +55,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc04c192-a181-484b-b113-b8ae6217abee" name="Default Changelist" comment="" />
-      <created>1603981305367</created>
+      <changelist id="b52fa557-8ef7-49cc-86da-6a0db60a6e67" name="Default Changelist" comment="" />
+      <created>1604068687170</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603981305367</updated>
-      <workItem from="1603981306922" duration="8559000" />
-      <workItem from="1603993019508" duration="4222000" />
-      <workItem from="1603997608867" duration="988000" />
+      <updated>1604068687170</updated>
+      <workItem from="1604068688753" duration="357000" />
     </task>
-    <task id="LOCAL-00001" summary="responsive">
-      <created>1603997678349</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1603997678349</updated>
-    </task>
-    <task id="LOCAL-00002" summary="responsive">
-      <created>1603998305138</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1603998305138</updated>
-    </task>
-    <task id="LOCAL-00003" summary="responsive">
-      <created>1603998432267</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1603998432267</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,17 +69,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="responsive" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="583" y="86" key="CommitChangelistDialog2" timestamp="1603998431761">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="583" y="86" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1603998431761" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1603998439321">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603998439321" />
   </component>
 </project>
